@@ -1,11 +1,12 @@
-import React, { useContext } from 'react';
-import { ReviewContext } from '../../App';
+// import React, { useContext } from 'react';
+// import { ReviewContext } from '../../App';
+import useReviews from '../../hooks/useReviews';
 import ReviewCart from '../ReviewCart/ReviewCart';
 
 const Review = () => {
-    const reviews = useContext(ReviewContext)
+    const [reviews, setReviews] = useReviews();
     return (
-        <div className=''>
+        <div>
             {
                 reviews.map(review => <ReviewCart
                     review={review}
