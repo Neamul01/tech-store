@@ -1,0 +1,51 @@
+[
+    {
+        "_id": "624aaec96cedc02d3350f387",
+        "picture": "https://i.pinimg.com/originals/40/18/03/401803755170c9750ab19646a064f534.jpg",
+        "rating": 2,
+        "name": "Shirley Barnes",
+        "description": "Overlook the Samsung Galaxy S22 at your peril. It's true that the entry-level phone in Samsung's new flagship lineup lacks the premium features of the Galaxy S22 Ultra and the larger screen of the Galaxy S22 Plus, but there's a danger in focusing too much on what the S22 doesn't have."
+    },
+    {
+        "_id": "624aaec981271b0e0e49df3e",
+        "picture": "https://i.pinimg.com/originals/93/25/7d/93257da860d6ff6ac907190300ecda57.jpg",
+        "rating": 4,
+        "name": "Ellis Stafford",
+        "description": "Overlook the Samsung Galaxy S22 at your peril. It's true that the entry-level phone in Samsung's new flagship lineup lacks the premium features of the Galaxy S22 Ultra and the larger screen of the Galaxy S22 Plus, but there's a danger in focusing too much on what the S22 doesn't have."
+    },
+    {
+        "_id": "624aaec9170b78ae6a025423",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFin0zEl_El4v625F6ULsjMfBv9zji7yBrRHXRyipUCiL5HMV4JTWz4yLNvThSKAg5okc&usqp=CAU",
+        "rating": 3,
+        "name": "Decker Bird",
+        "description": "The Galaxy S22 won't be the model of choice for everyone, especially those who want every premium feature packed into a phone. But our Samsung Galaxy S22 review finds a phone with enough high-end features to impress as one of the best Samsung phones, especially at this price. If you've been holding out on updating your phone in part because of the rising cost of flagship devices, the Galaxy S22 will remind you that you don't have to part with big bucks to get a premium handset."
+    },
+    {
+        "_id": "624aaec9971f9939d6645f4b",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShM6mobmw3KdiREJJHl_cKZ86gqErg_1yDX3hRLP_4N-CRwKh1DIkbPX2ziieYLA01BNQ&usqp=CAU",
+        "rating": 1,
+        "name": "Christine Wagner",
+        "description": "The Galaxy S22 has been on sale since the end of February. You'll find it at every major wireless carriers, as well as a few MVNOs like Google Fi, Xfinity Mobile and Visible. Retailers such as Amazon and Best Buy sell the phone, too, and you can buy it directly at Samsung.com, where the Galaxy S22 is available in four Samsung-exclusive colors."
+    },
+    {
+        "_id": "624aaec988612b7af189778a",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHDHiJHyJ7y9lpOHQewoKqdq7LYZjSDgC6g5HnlqZW6fjiQeEaqAGq4Qe-CvXtbsCaFqg&usqp=CAU",
+        "rating": 4,
+        "name": "Robin Mcgee",
+        "description": "The Galaxy S22 starts at $799 for a base model with 128GB of storage. You can bump that up to 256GB for another $50. (For this review, we ponied up for the 256GB Galaxy S22.) The best Galaxy S22 deals can help you lower that price tag, though you'll likely need to trade-in a current phone or sign up for an unlimited data plan (or do both) to reap substantial savings."
+    },
+    {
+        "_id": "624aaec9562190079f7503bc",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3UayzfjvoAG07UbS9G26kW4tjmHS1w4o144NoGIAAUXosn4d0jfUpo5yDyVXYR6KwqzM&usqp=CAU",
+        "rating": 3,
+        "name": "Shari Meyer",
+        "description": "After experimenting with a polycarbonate back for the Galaxy S21, the Galaxy S22 sports an upgrade in materials, with an aluminum band around the middle and a glass back that's made out of Gorilla Glass Victus Plus. That should bolster durability, though dropping glass of any kind onto hard surfaces can lead to disastrous consequences — we'd recommend getting one of the best Galaxy S22 cases to protect your new phone. At least the new materials make the Galaxy S22 feel like a more sophisticated phone than the plastic Galaxy S21 FE, available for $100 less. "
+    },
+    {
+        "_id": "624aaec95971f5bb00416058",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVu5r_JOiVNx0C6--MV_o0IbWesPHrDNiVqM19v1bzYk8KxIVKfxh44RbnxD0qveYkVPY&usqp=CAU",
+        "rating": 5,
+        "name": "Bean Blackburn",
+        "description": "The materials may be different from last year's Galaxy S flagship, but the design is the same, right down to the contour cut look for the rear camera array, in which the three vertically stacked lenses on the back of the phone are contained in a bump that blends into the device's side. The difference here is that Galaxy S21's camera array was a different color from the rest of the phone's back; on the Galaxy S22, Samsung matches colors."
+    }
+]
