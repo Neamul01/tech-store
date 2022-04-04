@@ -2,10 +2,10 @@ import React from 'react';
 import ReactStars from 'react-rating-stars-component';
 import './ReviewCart.css'
 
-const ReviewCart = ({ review, width }) => {
+const ReviewCart = ({ review }) => {
     const { name, description, rating, picture } = review
     return (
-        <div className='flex justify-center items-center m-4 p-8 bg-white rounded-lg shadow-lg' style={{ width: '40rem' }}    >
+        <div className='flex justify-center items-center m-4 p-8 bg-white rounded-lg shadow-lg shadow-slate-400' style={{ maxWidth: '70rem' }}  >
             <div>
                 <img className='w-full rounded-full' style={{ width: '60rem' }} src={picture} alt="" />
             </div>
