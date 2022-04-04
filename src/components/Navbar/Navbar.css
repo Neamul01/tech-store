@@ -1,0 +1,8 @@
+.navbar-custom a{
+    padding: 0.8rem 1rem;
+    margin: 0 0.3rem;
+    border-radius: 0.5rem;
+}
+.navbar-custom a:hover{
+    background: lightgray;
+}
