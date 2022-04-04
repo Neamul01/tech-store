@@ -7,8 +7,7 @@ import Dashboard from './components/Dashboard/Dashboard';
 import Blogs from './components/Blogs/Blogs';
 import About from './components/About/About';
 import NotFoundPage from './components/NotFoundPage/NotFoundPage';
-import useReviews from './hooks/useReviews';
-import { createContext } from 'react';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -23,6 +22,7 @@ function App() {
         <Route path='/about' element={<About></About>}></Route>
         <Route path='*' element={<NotFoundPage></NotFoundPage>}></Route>
       </Routes>
+      <Footer></Footer>
     </div>
   );
 }

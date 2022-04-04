@@ -7,7 +7,7 @@ const Dashboard = () => {
         fetch('data.json').then(res => res.json()).then(data => setData(data))
     }, [])
     return (
-        <div className='mt-8 flex justify-around' >
+        <div className='mt-8 flex justify-around ' >
             <div>
                 <h2 className="text-4xl text-orange-400 mb-16">Revenue Chart</h2>
                 <LineChart
