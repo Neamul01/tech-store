@@ -1,9 +1,18 @@
-import React from 'react';
+import React, { useContext } from 'react';
+import { ReviewContext } from '../../App';
+import ReviewCart from '../ReviewCart/ReviewCart';
 
 const Review = () => {
+    const reviews = useContext(ReviewContext)
     return (
-        <div>
-            <h2>this is review component</h2>
+        <div className=''>
+            {
+                reviews.map(review => <ReviewCart
+                    review={review}
+                    key={review._id}
+                    width={'700px'}
+                ></ReviewCart>)
+            }
         </div>
     );
 };

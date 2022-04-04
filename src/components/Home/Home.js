@@ -16,6 +16,7 @@ const Home = () => {
                         homeShowedReviews.map(review => <ReviewCart
                             review={review}
                             key={review._id}
+                            width="500px"
                         ></ReviewCart>)
                     }
                 </div>
