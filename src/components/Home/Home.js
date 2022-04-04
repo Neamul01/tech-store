@@ -7,7 +7,7 @@ import useReviews from '../../hooks/useReviews';
 
 const Home = () => {
     // const reviews = useContext(ReviewContext)
-    const [reviews, setReviews] = useReviews()
+    const [reviews] = useReviews()
     console.log(reviews)
     const homeShowedReviews = reviews.slice(0, 3)
     return (

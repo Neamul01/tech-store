@@ -4,7 +4,7 @@ import useReviews from '../../hooks/useReviews';
 import ReviewCart from '../ReviewCart/ReviewCart';
 
 const Review = () => {
-    const [reviews, setReviews] = useReviews();
+    const [reviews] = useReviews();
     return (
         <div>
             {
