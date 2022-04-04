@@ -1,8 +1,8 @@
-## Available Scripts
+## Tech store
+https://assignment-9-tech-store.netlify.app/
 
-In the project directory, you can run:
 
-### `npm start`
+### `About Project`
 
-- I will write in there
+- In this project I trying to design and and create a site with my choice.
 - wait for it
