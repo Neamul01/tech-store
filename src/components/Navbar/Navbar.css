@@ -1,8 +1,8 @@
-.navbar-custom a{
+.navbar-custom{
     padding: 1rem 1.2rem;
     margin: 0 0.3rem;
     border-radius: 0.5rem;
 }
-.navbar-custom a:hover{
-    background: lightgray;
+.navbar-custom:hover{
+    background: rgb(219, 6, 6);
 }
